@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kaos Le Homeless",
+    "price": 349900,
+    "description": "Sebuah mahakarya kaos lengan pendek dengan style homeless-classic, kualitas tidak baru meskipun brandnya tidak ternama.",
+    "mainImg": "https://qph.fs.quoracdn.net/main-qimg-3e7193b516e40553170ac07368d9c1dc",
+    "authorId": 1,
+    "categoryId": 1,
+    "UserMongoId": "6507922deb5556f240909e67"
+  },
+  {
+    "name": "Celana Style Terbalik",
+    "price": 99000,
+    "description": "Celana dengan desain terbalik yang unik dan tentunya tidak nyaman dipakai.",
+    "mainImg": "https://cdn.clothbase.com/uploads/277f0ed6-3fd1-4c7e-9b52-fd043866baa4/191806F069004_2.jpg",
+    "authorId": 2,
+    "categoryId": 2,
+    "UserMongoId": "6507922deb5556f240909e67"
+  },
+  {
+    "name": "Topi Anak Crazy Hats",
+    "price": 45000,
+    "description": "Topi dengan desain lucu yang cocok untuk anak-anak semua umur dan semua gender.",
+    "mainImg": "https://m.media-amazon.com/images/I/411bX1ApYxL._SS400_.jpg",
+    "authorId": 2,
+    "categoryId": 7,
+    "UserMongoId": "6507922deb5556f240909e68"
+  },
+  {
+    "name": "Kaos Meme Kucing",
+    "price": 55000,
+    "description": "Kaos dengan gambar meme kucing yang sedang tertawa, sangat menggemaskan. Tersedia dalam ukuran all-size.",
+    "mainImg": "https://ih1.redbubble.net/image.1947198933.1948/ssrco,active_tshirt,mens,101010:01c5ca27c6,front,square_product,600x600.jpg",
+    "authorId": 1,
+    "categoryId": 1,
+    "UserMongoId": "6507922deb5556f240909e66"
+  },
+  {
+    "name": "Kaos Lengan Panjang High On Stress",
+    "price": 45000,
+    "description": "Anda seorang nerd yang haus akan atensi? anda juga seorang programmer yang tentunya pasti stress? maka kaos ini pilihan pas untuk anda.",
+    "mainImg": "https://m.media-amazon.com/images/I/61frmaTsOQL._AC_UX679_.jpg",
+    "authorId": 1,
+    "categoryId": 1,
+    "UserMongoId": "6507922deb5556f240909e68"
+  },
+  {
+    "name": "Celana Style Sobek",
+    "price": 33000,
+    "description": "Sebuah celana sobek berkualitas rendah. Adem digunakan, dan cocok dikenakan di acara formal.",
+    "mainImg": "https://ds393qgzrxwzn.cloudfront.net/cat1/img/images/0/JlscGxqxB6.jpg",
+    "authorId": 3,
+    "categoryId": 2,
+    "UserMongoId": "6507922deb5556f240909e66"
+  },
+  {
+    "name": "Topi Bodoh Si Nomor Satu",
+    "price": 48000,
+    "description": "Topi legendaris buatan Swiss tahun 1892. Di rumorkan pengguna terakhirnya adalah si nomor 1 Smitty Werber Jegerman Jensen.",
+    "mainImg": "https://i.pinimg.com/1200x/9c/41/c4/9c41c421351949b9948a656fe6e1083a.jpg",
+    "authorId": 1,
+    "categoryId": 7,
+    "UserMongoId": "6507922deb5556f240909e67"
+  },
+  {
+    "name": "Sendal Lobsters",
+    "price": 450000,
+    "description": "Pernah membayangkan bagaimana wujud ideal sendal seafood lovers khususnya Lobster? sendal Lobster inilah jawabannya.",
+    "mainImg": "https://m.media-amazon.com/images/I/511rZmcM2TL._AC_UY695_.jpg",
+    "authorId": 1,
+    "categoryId": 7,
+    "UserMongoId": "6507922deb5556f240909e68"
+  }
+]

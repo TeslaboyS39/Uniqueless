@@ -1,0 +1,23 @@
+[
+  {
+    "username": "Foxtrot",
+    "email": "foxtrot@gmail.com",
+    "password": "abc123",
+    "phoneNumber": "081111111111",
+    "address": "Jalan Pegangsaan Timur no. 56"
+  },
+  {
+    "username": "Alpha",
+    "email": "alpha@gmail.com",
+    "password": "abc123",
+    "phoneNumber": "082222222222",
+    "address": "Jalan Pegangsaan Timur no. 57"
+  },
+  {
+    "username": "Beta",
+    "email": "beta@gmail.com",
+    "password": "abc123",
+    "phoneNumber": "083333333333",
+    "address": "Jalan Pegangsaan Timur no. 58"
+  }
+]

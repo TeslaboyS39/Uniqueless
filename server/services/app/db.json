@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Baju Sobek(literally)",
+      "price": 125000,
+      "description": "Sebuah mahakarya baju sobek, kualitas tidak baru.",
+      "imageUrl": "https://qph.fs.quoracdn.net/main-qimg-3e7193b516e40553170ac07368d9c1dc",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Celana Terbalik",
+      "price": 99000,
+      "description": "Celana dengan desain terbalik yang unik dan tentunya tidak nyaman dipakai.",
+      "imageUrl": "https://cdn0-production-images-kly.akamaized.net/FMj0WrTbwYHHLiuzp3qFsdj4VjQ=/640x640/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4514644/original/021153000_1690347948-f6d44723-36f0-4bf5-9da1-6fd235f3d3a8-7ab038f296922c095203d7b12ad14adf-47eb2ff84a3806635c924fa91e264e6d.jpeg",
+      "authorId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Topi Gajah Lucu",
+      "price": 45000,
+      "description": "Topi dengan gambar gajah lucu yang cocok untuk anak-anak.",
+      "imageUrl": "https://images.halloweencostumes.com/products/69021/2-1-160099/elephant-sprazy-toy-hat-alt-2.jpg",
+      "authorId": 2,
+      "categoryId": 7
+    },
+    {
+      "id": 4,
+      "name": "Kaos Kucing Tertawa",
+      "price": 55000,
+      "description": "Kaos dengan gambar kucing yang sedang tertawa, sangat menggemaskan.",
+      "imageUrl": "https://ih1.redbubble.net/image.1947198933.1948/ssrco,active_tshirt,mens,101010:01c5ca27c6,front,square_product,600x600.jpg",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Jaket Unicorn Ajaib",
+      "price": 150000,
+      "description": "Jaket dengan desain unicorn yang memberikan keajaiban. Cocok saat digunakan di acara formal.",
+      "imageUrl": "https://grizcoat.com/cdn/shop/products/IMG_5494-v2-cropped_1024x1024.jpg?v=1509397838",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "name": "Baju Hilang",
+      "price": 45000,
+      "description": "default description",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DVl044Iog_egG8roOUkpUyjWCQi8FVdhII0Q9ZTwrBW2bDQsQVorkokK46FtFBm7CTA&usqp=CAU",
+      "authorId": 1,
+      "id": 6,
+      "categoryId": 1
+    },
+    {
+      "name": "Celana Sobek",
+      "price": 33000,
+      "description": "Sebuah celana sobek berkualitas rendah. Adem digunakan, dan cocok dikenakan di acara formal.",
+      "imageUrl": "https://ds393qgzrxwzn.cloudfront.net/cat1/img/images/0/JlscGxqxB6.jpg",
+      "authorId": 1,
+      "id": 7,
+      "categoryId": 2
+    },
+    {
+      "name": "Topi Bodoh",
+      "price": 48000,
+      "description": "Topi legendaris buatan swiss tahun 1892. Di rumorkan pengguna terakhirnya adalah si nomor 1 Smitty Werber Jegerman Jensen.",
+      "imageUrl": "https://i.pinimg.com/1200x/9c/41/c4/9c41c421351949b9948a656fe6e1083a.jpg",
+      "authorId": 1,
+      "id": 8,
+      "categoryId": 7
+    },
+    {
+      "name": "Sepatu Kebalik",
+      "price": 450000,
+      "description": "Meskipun cacat produksi, seri sepatu ini yang limited edition nyatanya menarik banyak perhatian umum.",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Product-Press-2.png?w=1080",
+      "authorId": 1,
+      "id": 9,
+      "categoryId": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Foxtrot",
+      "email": "foxtrot@gmail.com",
+      "password": "abc123",
+      "role": "admin",
+      "phoneNumber": "081111111111",
+      "address": "Jalan Pegangsaan Timur no. 56"
+    },
+    {
+      "username": "Alpha",
+      "email": "alpha@gmail.com",
+      "password": "abc123",
+      "phoneNumber": "082222222222",
+      "address": "Jalan Pegangsaan Timur no. 57",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "username": "Beta",
+      "email": "beta@gmail.com",
+      "password": "abc123",
+      "role": "admin",
+      "phoneNumber": "083333333333",
+      "address": "Jalan Pegangsaan Timur no. 58",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Baju Pria",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Celana Pria",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Baju Wanita",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Celana dan Rok Wanita",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Baju Anak",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Celana Anak",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Misc.",
+      "createdAt": "2023-09-06T12:00:00Z",
+      "updatedAt": "2023-09-06T12:00:00Z"
+    }
+  ]
+}
